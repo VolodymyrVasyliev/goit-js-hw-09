@@ -6,7 +6,7 @@
   "scripts": {
     "start": "vite",
     "build": "vite build --base=/goit-js-hw-09/",
-    "preview": "vite preview"
+    "preview": "vite preview",
     "push": "git add .; git commit -m 'update'; git push;"
   },
   "devDependencies": {
@@ -20,3 +20,4 @@
     "vite-plugin-html-inject": "^1.0.1"
   }
 }
+ 
